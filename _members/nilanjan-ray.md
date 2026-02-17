@@ -4,7 +4,7 @@ image: images/nilanjan_ray/2026_Ray_Nilanjan-9596.jpg
 role: Professor
 affiliation: University of Alberta
 links:
-  home-page: [cs.ualberta.ca/~nray1](https://webdocs.cs.ualberta.ca/~nray1/index.html)
+  home-page: "https://webdocs.cs.ualberta.ca/~nray1/index.html"
 ---
 
 I received Bachelor of Mechanical Engineering from Jadavpur University, Calcutta, India, in 1995, M.Tech. in Computer Science from Indian Statistical Institute, Calcutta, in 1997, and Ph.D. in Electrical Engineering from the University of Virginia, USA, in 2003. After having two years of postdoctoral research and a year of industrial work experience I joined the Department of Computing Science, University of Alberta in 2006, where I am a Professor now.
