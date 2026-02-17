@@ -1,19 +1,18 @@
 # site properties and page defaults
 title: UAlbertaVISUAL
 subtitle: Video Image Signal Understanding and Learning Laboratory at University of Alberta
-description: TBD A few lines on what this lab does 
-header: images/background.jpg
-footer: images/background.jpg
+description: The VISUAL Lab   
+header: images/website_header.png
+footer: images/website_footer.png
 proofer: false
 
 # site social media and other links
 links:
   email: nray@ualberta.ca
   orcid: 0000-0002-7588-5400
-  google-scholar: 
+  google-scholar: https://scholar.google.ca/citations?hl=en&user=E3wuLqAAAAAJ
   github: https://github.com/UAlbertaVISUAL
-  twitter: UAlbertaVISUAL
-  youtube: UAlbertaVISUAL
+
 
 ### jekyll settings
 
