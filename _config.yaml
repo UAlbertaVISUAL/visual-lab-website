@@ -5,7 +5,8 @@ description: The VISUAL Lab
 header: images/website_header.png
 footer: images/website_footer.png
 proofer: false
-
+header-dark: images/website_header_dark.png
+footer-dark: images/website_footer_dark.png
 # site social media and other links
 links:
   email: nray@ualberta.ca
