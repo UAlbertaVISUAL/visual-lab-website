@@ -28,29 +28,6 @@ The VISUAL Lab is always looking for motivated PhD and MSc students interested i
   link="https://maps.app.goo.gl/V6C3ipoQ2zfpeCL86"
 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
