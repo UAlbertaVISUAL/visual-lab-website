@@ -11,11 +11,11 @@ postdoc:
   description: Postdoctoral Researcher
 
 ms:
-  icon: fa-regular fa-graduation-cap
+  icon: fa-solid fa-graduation-cap
   description: MS student
 
 phd:
-  icon: fa-regular fa-graduation-cap
+  icon: fa-solid fa-graduation-cap
   description: PhD Student
 
 undergrad:
