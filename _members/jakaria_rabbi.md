@@ -2,7 +2,7 @@
 name: Jakaria Rabbi
 image: images/Jakaria_Rabbi/20230204_143638.jpg
 role: phd
-description: Phd candidate
+description: Phd Candidate
 aliases:
   - Jakaria Rabbi
 links:
