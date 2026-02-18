@@ -5,6 +5,7 @@ role: phd
 description: Phd Candidate
 links:
   github: https://github.com/minhnhat93
+  email: nmnguyen@ualberta.ca
 ---
 
 I am a PhD student working with Dr. Nilanjan Ray and Dr. Pierre Boulanger on applications of information geometry and optimal transport to problems in computer vision and quantum error correction.
