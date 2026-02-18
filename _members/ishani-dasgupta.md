@@ -6,7 +6,7 @@ description: Phd Candidate
 aliases:
   - Ishani DasGupta
 links:
-  email: 
+  email: idasgupt@ualberta.ca
 
 ---
 
