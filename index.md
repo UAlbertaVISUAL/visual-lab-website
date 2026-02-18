@@ -52,7 +52,7 @@ Meet our team!
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+  style="object-fit: contain"
 %}
 
 {% endcapture %}
@@ -63,4 +63,5 @@ Meet our team!
   link="team"
   title="Our Members"
   text=text
+  style="object-fit: contain"
 %}
