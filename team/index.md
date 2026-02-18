@@ -11,15 +11,15 @@ Meet the researchers behind the VISUAL Lab.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 
 {% capture content %}
 
-{% include figure.html image="images/2025_group_photo.jpg" %}
-{% include figure.html image="images/Group2018.jpg" %}
-{% include figure.html image="images/Group2017.jpg" %}
+{% include figure.html image="images/2025_group_photo.jpg" caption="2025 Team" link="team" width="400px"%}
+{% include figure.html image="images/Group2018.jpg" caption="2018 Team" link="team" width="400px"%}
+{% include figure.html image="images/Group2017.jpg" caption="2017 Team" link="team" width="400px"%}
 
 {% endcapture %}
 
