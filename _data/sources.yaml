@@ -1,17 +1,20 @@
 - id: doi:10.1109/TGRS.2020.2981082
   image: images/project_images/fp3.png
+  featured: true
   tags:
     - deep learning
     - remote sensing
     - river ice
 
 - id: doi:10.59275/j.melba.2024-267f
+  featured: true
   tags:
     - biomedical
     - neurological disorders
     - contrastive learning
 
 - id: doi:10.1109/ACCESS.2023.3238058
+  featured: true
   tags:
     - medical imaging
     - cardiac
