@@ -6,6 +6,5 @@ description: Graduate Student
 aliases:
   - Souhardya Ganguly
 links:
-  email: 
-souhardy@ualberta.ca
+  email: souhardy@ualberta.ca
 ---
