@@ -1,47 +1,86 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+# Featured Projects
+- title: Computerized Diagnosis Methods for Pediatric Cardiology
+  subtitle: IEEE Access (2025)
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://doi.org/hbpnwb
+  description: A comprehensive review of computerized diagnosis methods for pediatric cardiology, exploring machine learning applications in heart health.
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
     - publication
+    - medical imaging
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Improving Token-Based Object Detection With Video
+  subtitle: IEEE Access (2025)
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://doi.org/hbpnwc
+  description: Enhancing object detection frameworks by leveraging temporal data from video streams to improve accuracy and consistency.
   tags:
-    - software
+    - publication
+    - computer vision
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: River Ice Segmentation With Deep Learning
+  subtitle: IEEE TGRS (2020)
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://doi.org/hbpnwn
+  description: Applying deep learning architectures for the automated and precise segmentation of river ice in remote sensing imagery.
   tags:
-    - software
+    - publication
+    - remote sensing
+
+# More Projects
+- title: Disentangling Hippocampal Shape Variations
+  subtitle: ML for Biomedical Imaging (2024)
+  image: images/photo.jpg
+  link: https://doi.org/hbpnwd
+  description: Analyzing neurological disorders using Mesh Variational Autoencoders with Contrastive Learning to study hippocampal shapes.
+  tags:
+    - publication
+    - biomedical
+
+- title: Early Detection of Bark Beetle Attack
+  subtitle: ACM Computing Surveys (2023)
+  image: images/photo.jpg
+  link: https://doi.org/hbpnwf
+  description: A review on using remote sensing and machine learning for the early detection of forest infestations.
+  tags:
+    - publication
+    - remote sensing
+    - machine learning
+
+- title: Early Prediction of Human iPSC Reprogramming Success
+  subtitle: ML for Biomedical Imaging (2023)
+  image: images/photo.jpg
+  link: https://doi.org/hbpnwg
+  description: Towards the automated and early prediction of reprogramming success in human induced pluripotent stem cells.
+  tags:
+    - publication
+    - biomedical
+
+- title: GMCNet - Generative Multi-Resolution Framework
+  subtitle: IEEE Access (2023)
+  image: images/photo.jpg
+  link: https://doi.org/hbpnwm
+  description: A generative framework designed for multi-resolution cardiac registration and segmentation.
+  tags:
+    - publication
+    - medical imaging
+
+- title: Fast Large-Scale Spectral Clustering
+  subtitle: IEEE Transactions on Cybernetics (2019)
+  image: images/photo.jpg
+  link: https://doi.org/hbpnwp
+  description: Explicit feature mapping techniques to enable fast spectral clustering on large-scale datasets.
+  tags:
+    - publication
+    - algorithms
+
+- title: Object Classification With Joint Projection
+  subtitle: IEEE Transactions on Image Processing (2018)
+  image: images/photo.jpg
+  link: https://doi.org/gcp63s
+  description: Research on low-rank dictionary learning and joint projection for robust object classification.
+  tags:
+    - publication
+    - computer vision
