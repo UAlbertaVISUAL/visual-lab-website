@@ -21,7 +21,7 @@ Meet the researchers behind the VISUAL Lab.
 
 {% capture content %}
 
-  {% include figure.html image="images/2025_group_photo.jpg" caption="Group Photo,2025" link="team" width="500px" %}
+  {% include figure.html image="images/2025_group_photo.jpg" caption="Group Photo,2025" link="team" width="100%" %}
   {:.center}
 
 {% endcapture %}
