@@ -11,7 +11,7 @@ postdoc:
   description: Postdoctoral Researcher
 
 ms:
-  icon: fa-thin fa-graduation-cap
+  icon: fa-regular fa-graduation-cap
   description: MS student
 
 phd:
