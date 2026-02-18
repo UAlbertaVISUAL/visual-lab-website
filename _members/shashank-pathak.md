@@ -2,7 +2,7 @@
 name: Shashank Pathak
 image: images/team/some-image.jpg
 role: phd
-description: Phd candidate
+description: Phd Candidate
 aliases:
   - Shashank Pathak
 links:
