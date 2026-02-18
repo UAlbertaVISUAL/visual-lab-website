@@ -35,7 +35,7 @@ Take a look at some of our most recent publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/banner_research.png"
   link="research"
   title="Our Research"
   text=text
