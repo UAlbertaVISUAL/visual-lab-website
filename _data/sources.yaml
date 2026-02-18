@@ -1,20 +1,52 @@
 - id: doi:10.1109/TGRS.2020.2981082
+  title: River Ice Segmentation With Deep Learning
+  authors:
+    - Abhineet Singh
+    - Hayden Kalke
+    - Mark Loewen
+    - Nilanjan Ray
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2020-11-01'
+  link: https://doi.org/hbpnwn
   image: images/project_images/fp3.png
   featured: true
+  dr-ray: true
   tags:
     - deep learning
     - remote sensing
     - river ice
 
 - id: doi:10.59275/j.melba.2024-267f
+  title: 'Disentangling Hippocampal Shape Variations: A Study of Neurological Disorders Using Mesh Variational Autoencoder with Contrastive Learning'
+  authors:
+    - Jakaria Rabbi
+    - Johannes Kiechle
+    - Christian Beaulieu
+    - Nilanjan Ray
+    - Dana Cobzas
+  publisher: Machine Learning for Biomedical Imaging
+  date: '2024-11-25'
+  link: https://doi.org/hbpnwd
   featured: true
+  dr-ray: true
   tags:
     - biomedical
     - neurological disorders
     - contrastive learning
 
 - id: doi:10.1109/ACCESS.2023.3238058
+  title: 'GMCNet: A Generative Multi-Resolution Framework for Cardiac Registration'
+  authors:
+    - Ameneh Sheikhjafari
+    - Michelle Noga
+    - Ahmed Ahmed
+    - Nilanjan Ray
+    - Kumaradevan Punithakumar
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/hbpnwm
   featured: true
+  dr-ray: true
   tags:
     - medical imaging
     - cardiac
