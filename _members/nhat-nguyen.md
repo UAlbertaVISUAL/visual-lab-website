@@ -2,7 +2,7 @@
 name: Nhat Nguyen
 image: images/Nhat_Nguyen/portrait.jpg
 role: phd
-group: alum
+description: Phd Candidate
 links:
   github: https://github.com/minhnhat93
 ---
