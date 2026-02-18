@@ -44,6 +44,7 @@
   dr-ray: true
   plugin: sources.py
   file: sources.yaml
+  featured: true
   tags:
   - biomedical
   - neurological disorders
@@ -154,6 +155,7 @@
   dr-ray: true
   plugin: sources.py
   file: sources.yaml
+  featured: true
   tags:
   - medical imaging
   - cardiac
@@ -173,6 +175,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/project_images/fp3.png
+  featured: true
   tags:
   - deep learning
   - remote sensing
