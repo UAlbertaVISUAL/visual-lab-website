@@ -55,7 +55,7 @@ Take a look at some of our most recent publications
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team!
 
 {%
   include button.html
