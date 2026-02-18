@@ -32,7 +32,7 @@
 # More Projects
 - title: Disentangling Hippocampal Shape Variations
   subtitle: ML for Biomedical Imaging (2024)
-  image: images/photo.jpg
+  image:  images/project_images/p1.png
   link: https://doi.org/hbpnwd
   description: Analyzing neurological disorders using Mesh Variational Autoencoders with Contrastive Learning to study hippocampal shapes.
   tags:
@@ -41,7 +41,7 @@
 
 - title: Early Detection of Bark Beetle Attack
   subtitle: ACM Computing Surveys (2023)
-  image: images/photo.jpg
+  image:  images/project_images/p2.png
   link: https://doi.org/hbpnwf
   description: A review on using remote sensing and machine learning for the early detection of forest infestations.
   tags:
@@ -51,7 +51,7 @@
 
 - title: Early Prediction of Human iPSC Reprogramming Success
   subtitle: ML for Biomedical Imaging (2023)
-  image: images/photo.jpg
+  image:  images/project_images/p3.png
   link: https://doi.org/hbpnwg
   description: Towards the automated and early prediction of reprogramming success in human induced pluripotent stem cells.
   tags:
@@ -60,7 +60,7 @@
 
 - title: GMCNet - Generative Multi-Resolution Framework
   subtitle: IEEE Access (2023)
-  image: images/photo.jpg
+  image:  images/project_images/p4.gif
   link: https://doi.org/hbpnwm
   description: A generative framework designed for multi-resolution cardiac registration and segmentation.
   tags:
@@ -69,7 +69,7 @@
 
 - title: Fast Large-Scale Spectral Clustering
   subtitle: IEEE Transactions on Cybernetics (2019)
-  image: images/photo.jpg
+  image: images/project_images/p5.gif
   link: https://doi.org/hbpnwp
   description: Explicit feature mapping techniques to enable fast spectral clustering on large-scale datasets.
   tags:
@@ -78,7 +78,7 @@
 
 - title: Object Classification With Joint Projection
   subtitle: IEEE Transactions on Image Processing (2018)
-  image: images/photo.jpg
+  image:  images/project_images/p6.gif
   link: https://doi.org/gcp63s
   description: Research on low-rank dictionary learning and joint projection for robust object classification.
   tags:
