@@ -13,7 +13,7 @@ Welcome to the VISUAL Lab research page.
 
 ## Highlighted
 
-{% include list.html data="citations" component="citation" filters="featured:true" %}
+{% include list.html data="sources" component="citation" %}
 
 {% include section.html %}
 
