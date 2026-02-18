@@ -20,9 +20,10 @@ Meet the researchers behind the VISUAL Lab.
 
 
 {% capture content %}
-<div class="center">
-  {% include figure.html image="images/2025_group_photo.jpg" caption="2025 Team" link="team" width="300px" %}
-</div>
+
+  {% include figure.html image="images/2025_group_photo.jpg" caption="Group Photo,2025" link="team" width="500px" %}
+  {:.center}
+
 {% endcapture %}
 
 {% include grid.html style="plain" content=content %}
