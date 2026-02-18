@@ -42,17 +42,6 @@ Take a look at some of our most recent publications
 %}
 
 
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
 {% capture text %}
 
 Meet our team!
