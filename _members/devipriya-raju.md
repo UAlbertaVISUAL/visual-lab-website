@@ -1,6 +1,6 @@
 ---
 name: Devipriya Raju
-image: images/Devipriya Raju/DevipriyaRaju.jpg
+image: images/Devipriya_Raju/DevipriyaRaju.jpg
 role: Graduate Student
 description: ms
 aliases:
