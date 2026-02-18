@@ -13,7 +13,7 @@ Welcome to the VISUAL Lab research page.
 
 ## Highlighted
 
-{% include list.html data="sources" component="citation" %}
+{% include list.html data="citations" component="citation" filters="featured:true" %}
 
 {% include section.html %}
 
@@ -26,6 +26,5 @@ Welcome to the VISUAL Lab research page.
 {% include list.html 
    data="citations" 
    component="citation" 
-   filters="nilanjan-ray:true" 
+   filters="dr-ray:true" 
 %}
-
