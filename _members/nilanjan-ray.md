@@ -1,8 +1,9 @@
 ---
 name: Dr. Nilanjan Ray
 image: images/nilanjan_ray/2026_Ray_Nilanjan-9596.jpg
-role: Professor
+role: principal-investigator
 affiliation: University of Alberta
+description: Professor
 links:
   home-page: "https://webdocs.cs.ualberta.ca/~nray1/index.html"
 ---
