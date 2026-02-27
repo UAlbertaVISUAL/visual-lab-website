@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article class="project-page">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">
+      {% if page.year %}<strong>Year:</strong> {{ page.year }}{% endif %}
+      {% if page.authors %} • <strong>Authors:</strong>
+        {% for a in page.authors %}
+          {{ a.name }}{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  {% if page.image %}
+    <figure class="project-hero">
+      <img src="{{ page.image }}" alt="{{ page.title }} hero image" style="max-width:100%;height:auto;">
+    </figure>
+  {% endif %}
+
+  <section class="abstract">
+    <h2>Abstract</h2>
+    <div class="abstract-body">
+      {{ page.abstract | markdownify }}
+    </div>
+  </section>
+
+  {% if page.poster %}
+    <section class="poster">
+      <h2>Poster / Full image</h2>
+      <p><a href="{{ page.poster }}" target="_blank" rel="noopener">Open poster / full image</a></p>
+      {% if page.poster_embed == true %}
+        <div class="poster-embed" style="margin-top:1rem;">
+          <iframe src="{{ page.poster }}" style="width:100%;height:800px;border:0;" title="{{ page.title }} poster"></iframe>
+        </div>
+      {% endif %}
+    </section>
+  {% endif %}
+
+  <section class="content">
+    {{ content }}
+  </section>
+</article>
