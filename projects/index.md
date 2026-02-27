@@ -1,26 +1,19 @@
 ---
+layout: page
 title: Projects
-nav:
-  order: 2
-  tooltip: Software, datasets, and more
+permalink: /projects/
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-Take a look at some of our highlighted projects and works here ! 
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<div class="projects-list">
+  {% assign sorted = site.projects | sort: "year" | reverse %}
+  {% for project in sorted %}
+    <article class="project-card">
+      <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+      <p class="subtitle">
+        {% if project.year %}{{ project.year }}{% endif %}
+        {% if project.authors %} • {{ project.authors | map: "name" | join: ", " }}{% endif %}
+      </p>
+      <p class="excerpt">{{ project.abstract | strip_html | truncate: 220 }}</p>
+    </article>
+  {% endfor %}
+</div>
