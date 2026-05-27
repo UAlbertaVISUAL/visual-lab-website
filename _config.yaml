@@ -34,10 +34,6 @@ defaults:
       type: "posts"
     values:
       layout: post
-  - scope:
-      type:"projects"
-    values:
-      layour: project
 
 collections:
   # generate page for each member
@@ -46,9 +42,6 @@ collections:
   # generate page for each post
   posts:
     output: true
-  projects:
-    output: true
-    permalink: /projects/:name/
 
 # jekyll plugins
 plugins:
