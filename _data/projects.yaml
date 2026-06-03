@@ -29,15 +29,15 @@
     - publication
     - remote sensing
 
-- title: Sample Project Template
-  subtitle: Internal Project Page Example
+- title: Project Template (Example)
+  subtitle: Sample Template for Project Writeups
   group: featured
   image: images/project_images/sample-project/placeholder.png
-  link: projects/sample-project
+  link: projects/sample-project # Internal page path: projects/<slug>
   description: Reusable reference entry showing how to connect a project card to an internal detail page template.
   tags:
     - template
-    - project page
+    - project-page
     - documentation
   repo: UAlbertaVISUAL/visual-lab-website
 

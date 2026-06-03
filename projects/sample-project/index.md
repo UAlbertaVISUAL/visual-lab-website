@@ -1,5 +1,5 @@
 ---
-title: Sample Project Template
+title: Project Template (Example)
 description: Reusable template page for adding detailed project writeups.
 header: images/project_images/sample-project/placeholder.png
 ---
@@ -54,7 +54,7 @@ Highlight the main outcomes, quantitative results, and practical significance.
 <!-- Replace with your project's preferred citation text or BibTeX. -->
 ```bibtex
 @misc{sample_project_template,
-  title  = {Sample Project Template},
+  title  = {Project Template (Example)},
   author = {UAlberta VISUAL Lab},
   year   = {2026},
   note   = {Replace with your real citation details}
