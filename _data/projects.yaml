@@ -29,6 +29,18 @@
     - publication
     - remote sensing
 
+- title: Sample Project Template
+  subtitle: Internal Project Page Example
+  group: featured
+  image: images/project_images/sample-project/placeholder.png
+  link: projects/sample-project
+  description: Reusable reference entry showing how to connect a project card to an internal detail page template.
+  tags:
+    - template
+    - project page
+    - documentation
+  repo: UAlbertaVISUAL/visual-lab-website
+
 # More Projects
 - title: Disentangling Hippocampal Shape Variations
   subtitle: ML for Biomedical Imaging (2024)
