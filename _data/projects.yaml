@@ -29,11 +29,12 @@
     - publication
     - remote sensing
 
+# Example template card for creating internal project pages.
 - title: Project Template (Example)
   subtitle: Sample Template for Project Writeups
   group: featured
   image: images/project_images/sample-project/placeholder.png
-  link: projects/sample-project # Internal page path: projects/<slug>
+  link: projects/sample-project # Internal relative path (no leading slash), e.g., projects/<slug>
   description: Reusable reference entry showing how to connect a project card to an internal detail page template.
   tags:
     - template
