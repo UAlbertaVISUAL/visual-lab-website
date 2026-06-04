@@ -1,24 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1109/TGRS.2020.2981082
-  title: River Ice Segmentation With Deep Learning
+- id: doi:10.1109/ACCESS.2025.3545829
+  title: 'Computerized Diagnosis Methods for Pediatric Cardiology: A Review'
+  authors:
+  - R. Shantha Selvakumari
+  - Kumaradevan Punithakumar
+  - D. Selvathi
+  - S. Chrisilla
+  - R. Sri Abinaya
+  - Nilanjan Ray
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/hbpnwb
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2025.3596215
+  title: Improving Token-Based Object Detection With Video
   authors:
   - Abhineet Singh
-  - Hayden Kalke
-  - Mark Loewen
   - Nilanjan Ray
-  publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2020-11-01'
-  link: https://doi.org/hbpnwn
-  image: images/project_images/fp3.png
-  featured: true
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/hbpnwc
+  orcid: 0000-0002-7588-5400
   dr-ray: true
-  tags:
-  - deep learning
-  - remote sensing
-  - river ice
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.59275/j.melba.2024-267f
   title: 'Disentangling Hippocampal Shape Variations: A Study of Neurological Disorders
     Using Mesh Variational Autoencoder with Contrastive Learning'
@@ -31,14 +40,106 @@
   publisher: Machine Learning for Biomedical Imaging
   date: '2024-11-25'
   link: https://doi.org/hbpnwd
-  featured: true
+  orcid: 0000-0002-7588-5400
   dr-ray: true
+  plugin: sources.py
+  file: sources.yaml
+  featured: true
   tags:
   - biomedical
   - neurological disorders
   - contrastive learning
-  plugin: sources.py
-  file: sources.yaml
+- id: doi:10.1145/3625387
+  title: 'Early Detection of Bark Beetle Attack Using Remote Sensing and Machine Learning:
+    A Review'
+  authors:
+  - S. Mojtaba Marvasti-Zadeh
+  - Devin Goodsman
+  - Nilanjan Ray
+  - Nadir Erbilgin
+  publisher: ACM Computing Surveys
+  date: '2023-11-10'
+  link: https://doi.org/hbpnwf
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.59275/j.melba.2023-3d9d
+  title: Towards Early Prediction of Human iPSC Reprogramming Success
+  authors:
+  - Abhineet Singh
+  - Ila Jasra
+  - Omar Mouhammed
+  - Nidheesh Dadheech
+  - Nilanjan Ray
+  - James Shapiro
+  publisher: Machine Learning for Biomedical Imaging
+  date: '2023-11-10'
+  link: https://doi.org/hbpnwg
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/rs15102653
+  title: Orthomosaicking Thermal Drone Images of Forests via Simultaneously Acquired
+    RGB Images
+  authors:
+  - Rudraksh Kapil
+  - Guillermo Castilla
+  - Seyed Mojtaba Marvasti-Zadeh
+  - Devin Goodsman
+  - Nadir Erbilgin
+  - Nilanjan Ray
+  publisher: Remote Sensing
+  date: '2023-05-19'
+  link: https://doi.org/gtx6fn
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3294247
+  title: Compact Depth-Wise Separable Precise Network for Depth Completion
+  authors:
+  - Tianqi Wang
+  - Nilanjan Ray
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/hbpnwh
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LGRS.2023.3271649
+  title: 'Crown-CAM: Interpretable Visual Explanations for Tree Crown Detection in
+    Aerial Images'
+  authors:
+  - Seyed Mojtaba Marvasti-Zadeh
+  - Devin Goodsman
+  - Nilanjan Ray
+  - Nadir Erbilgin
+  publisher: IEEE Geoscience and Remote Sensing Letters
+  date: '2023-01-01'
+  link: https://doi.org/hbpnwj
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNB.2023.3276867
+  title: Deep Learning Based Parameterization of Diffeomorphic Image Registration
+    for Cardiac Image Segmentation
+  authors:
+  - Ameneh Sheikhjafari
+  - Deepa Krishnaswamy
+  - Michelle Noga
+  - Nilanjan Ray
+  - Kumaradevan Punithakumar
+  publisher: IEEE Transactions on NanoBioscience
+  date: '2023-10-01'
+  link: https://doi.org/hbpnwk
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2023.3238058
   title: 'GMCNet: A Generative Multi-Resolution Framework for Cardiac Registration'
   authors:
@@ -50,11 +151,90 @@
   publisher: IEEE Access
   date: '2023-01-01'
   link: https://doi.org/hbpnwm
-  featured: true
+  orcid: 0000-0002-7588-5400
   dr-ray: true
+  plugin: sources.py
+  file: sources.yaml
+  featured: true
   tags:
   - medical imaging
   - cardiac
   - generative models
+- id: doi:10.1109/TGRS.2020.2981082
+  title: River Ice Segmentation With Deep Learning
+  authors:
+  - Abhineet Singh
+  - Hayden Kalke
+  - Mark Loewen
+  - Nilanjan Ray
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2020-11-01'
+  link: https://doi.org/hbpnwn
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
   plugin: sources.py
   file: sources.yaml
+  image: images/project_images/fp3.png
+  featured: true
+  tags:
+  - deep learning
+  - remote sensing
+  - river ice
+- id: doi:10.3390/rs12091432
+  title: Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced
+    GAN and Object Detector Network
+  authors:
+  - Jakaria Rabbi
+  - Nilanjan Ray
+  - Matthias Schubert
+  - Subir Chowdhury
+  - Dennis Chao
+  publisher: Remote Sensing
+  date: '2020-05-01'
+  link: https://doi.org/ghf4jz
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2019.2907093
+  title: Training Convolutional Neural Networks and Compressed Sensing End-to-End
+    for Microscopy Cell Detection
+  authors:
+  - Yao Xue
+  - Gilbert Bigras
+  - Judith Hugh
+  - Nilanjan Ray
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2019-11-01'
+  link: https://doi.org/gm8ghs
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCYB.2018.2794998
+  title: Fast Large-Scale Spectral Clustering via Explicit Feature Mapping
+  authors:
+  - Li He
+  - Nilanjan Ray
+  - Yisheng Guan
+  - Hong Zhang
+  publisher: IEEE Transactions on Cybernetics
+  date: '2019-03-01'
+  link: https://doi.org/hbpnwp
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIP.2017.2766446
+  title: Object Classification With Joint Projection and Low-Rank Dictionary Learning
+  authors:
+  - Homa Foroughi
+  - Nilanjan Ray
+  - Hong Zhang
+  publisher: IEEE Transactions on Image Processing
+  date: '2018-02-01'
+  link: https://doi.org/gcp63s
+  orcid: 0000-0002-7588-5400
+  dr-ray: true
+  plugin: orcid.py
+  file: orcid.yaml
