@@ -24,6 +24,9 @@ authors:
 ## YEAR:
 2025
 
+## VENUE:
+ISBI 2025
+
 ## KEYWORDS:
 Echocardiography, Neural Networks, Transformers, Left Ventricle, Image Segmentation
 
