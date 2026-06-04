@@ -16,10 +16,11 @@ Use this sample post as a starting point when adding new updates to the lab blog
 
 This template demonstrates the minimum setup needed for a blog post to appear on the blog page:
 
-- place the file in `/tmp/workspace/UAlbertaVISUAL/visual-lab-website/_posts`
+- place the file in `/_posts`
 - use the `YYYY-MM-DD-your-post-title.md` filename format
 - set `title`, `image`, and any `tags` in the front matter
 - replace the sample body content with the real post text
+- save the file and Jekyll will include it automatically on the Blog page
 
 {% include figure.html
   image=page.image
