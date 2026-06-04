@@ -1,5 +1,6 @@
 ---
 title: Projects
+header: images/project_images/2025_Ishani_LVSeg_3dEcho_Comparison/banner.svg
 nav:
   order: 2
   tooltip: Software, datasets, and more
