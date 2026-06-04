@@ -1,23 +1,38 @@
 ---
 title: Project Template (Example)
 description: Reusable template page for adding detailed project writeups.
+# Header image shown behind the global top banner for this page.
 header: images/project_images/sample-project/placeholder.png
 ---
 
 <!--
   Copy this file to projects/<new-slug>/index.md and replace all sample content.
   Keep image paths repo-root-relative, e.g. images/project_images/<new-slug>/image-name.jpg.
+  Then add a matching entry in _data/projects.yaml with:
+    - title/subtitle/description/tags (project card text shown on /projects)
+    - image (project card thumbnail)
+    - link: projects/<new-slug> (opens this detail page)
 -->
 
 # {{ page.title }}
 
 {% include section.html background=page.header %}
+<!--
+  section.html creates a new section break. The "background" argument controls this
+  section's background image (separate from the global page header above).
+-->
 
 {% include figure.html
   image="images/project_images/sample-project/placeholder.png"
   caption="Replace with your project overview image and caption."
   width="100%"
 %}
+<!--
+  figure.html controls the main image block:
+    - image: the displayed image path
+    - caption: visible text under image
+    - width / height: image sizing
+-->
 
 ## Abstract
 
