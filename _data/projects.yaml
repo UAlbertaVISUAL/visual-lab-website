@@ -2,7 +2,7 @@
 - title: A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography
   subtitle: ISBI (2025)
   group: featured
-  image: images/project_images/2025_Ishani_LVSeg_3dEcho_Comparison/banner.svg
+  image: images/project_images/2025_Ishani_LVSeg_3dEcho_Comparison/project-image-ishani-2025-ISBI_lv_seg.png
   link: projects/2025_Ishani_LVSeg_3dEcho_Comparison
   description: A comparison of five deep-learning models for automatic left-ventricular segmentation from 3D echocardiography.
   tags:

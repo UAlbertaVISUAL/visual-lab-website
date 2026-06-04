@@ -1,7 +1,6 @@
 ---
 title: Project Template (Example)
 description: Reusable template page for adding detailed project writeups.
-header: images/project_images/sample-project/placeholder.png
 ---
 
 <!--
@@ -11,7 +10,7 @@ header: images/project_images/sample-project/placeholder.png
 
 # {{ page.title }}
 
-{% include section.html background=page.header %}
+{% include section.html %}
 
 {% include figure.html
   image="images/project_images/sample-project/placeholder.png"
