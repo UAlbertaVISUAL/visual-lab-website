@@ -1,5 +1,1996 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: E3wuLqAAAAAJ:HE397vMXCloC
+  title: Small-object detection in remote sensing images with end-to-end edge-enhanced
+    GAN and object detector network
+  authors:
+  - J Rabbi
+  - N Ray
+  - M Schubert
+  - S Chowdhury
+  - D Chao
+  publisher: Remote Sensing 12 (9), 1432, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:HE397vMXCloC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:u5HHmVD_uO8C
+  title: Tracking leukocytes in vivo with shape and size constrained active contours
+  authors:
+  - N Ray
+  - ST Acton
+  - K Ley
+  publisher: IEEE transactions on medical imaging 21 (10), 1222-1235, 2002
+  date: '2002-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:u5HHmVD_uO8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:u-x6o8ySG0sC
+  title: Level set analysis for leukocyte detection and tracking
+  authors:
+  - DP Mukherjee
+  - N Ray
+  - ST Acton
+  publisher: IEEE Transactions on Image processing 13 (4), 562-572, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:u-x6o8ySG0sC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:9yKSN-GCB0IC
+  title: 'Motion gradient vector flow: An external force for tracking rolling leukocytes
+    with shape and size constrained active contours'
+  authors:
+  - N Ray
+  - ST Acton
+  publisher: IEEE transactions on medical Imaging 23 (12), 1466-1478, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:9yKSN-GCB0IC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:d1gkVwhDpl0C
+  title: Merging parametric active contours within homogeneous image regions for MRI-based
+    lung segmentation
+  authors:
+  - N Ray
+  - ST Acton
+  - T Altes
+  - EE De Lange
+  - JR Brookeman
+  publisher: IEEE transactions on medical imaging 22 (2), 189-199, 2003
+  date: '2003-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:d1gkVwhDpl0C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Wp0gIr-vW9MC
+  title: 'Quick detection of brain tumors and edemas: A bounding box method using
+    symmetry'
+  authors:
+  - BN Saha
+  - N Ray
+  - R Greiner
+  - A Murtha
+  - H Zhang
+  publisher: Computerized medical imaging and graphics 36 (2), 95-107, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Wp0gIr-vW9MC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:WbkHhVStYXYC
+  title: Convolutional Gated Recurrent Networks for Video Segmentation
+  authors:
+  - M Siam
+  - S Valipour
+  - M Jagersand
+  - N Ray
+  publisher: IEEE ICIP, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:WbkHhVStYXYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:CHSYGLWDkRkC
+  title: Cell counting by regression using convolutional neural network
+  authors:
+  - Y Xue
+  - N Ray
+  - J Hugh
+  - G Bigras
+  publisher: European conference on computer vision, 274-290, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:CHSYGLWDkRkC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:geHnlv5EZngC
+  title: Fast large-scale spectral clustering via explicit feature mapping
+  authors:
+  - L He
+  - N Ray
+  - Y Guan
+  - H Zhang
+  publisher: IEEE transactions on cybernetics 49 (3), 1058-1071, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:geHnlv5EZngC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:NhqRSupF_l8C
+  title: Recurrent fully convolutional networks for video segmentation
+  authors:
+  - S Valipour
+  - M Siam
+  - M Jagersand
+  - N Ray
+  publisher: 2017 IEEE Winter Conference on Applications of Computer Vision (WACV),
+    29-36, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:NhqRSupF_l8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:UxriW0iASnsC
+  title: Continuous blood pressure prediction from pulse transit time using ECG and
+    PPG signals
+  authors:
+  - S Ghosh
+  - A Banerjee
+  - N Ray
+  - PW Wood
+  - P Boulanger
+  - R Padwal
+  publisher: "2016 IEEE Healthcare Innovation Point-Of-Care Technologies Conference\
+    \ (HI \u2026, 2016"
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:UxriW0iASnsC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:W7OEmFMy1HYC
+  title: Image thresholding by variational minimax optimization
+  authors:
+  - BN Saha
+  - N Ray
+  publisher: Pattern Recognition 42 (5), 843-856, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:W7OEmFMy1HYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:2osOgNQ5qMEC
+  title: Intravital leukocyte detection using the gradient inverse coefficient of
+    variation
+  authors:
+  - G Dong
+  - N Ray
+  - ST Acton
+  publisher: IEEE Transactions on Medical Imaging 24 (7), 910-924, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:2osOgNQ5qMEC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:AXPGKjj_ei8C
+  title: River Ice Segmentation With Deep Learning
+  authors:
+  - A Singh
+  - H Kalke
+  - M Loewen
+  - N Ray
+  publisher: IEEE Transactions on Geoscience and Remote Sensing, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:AXPGKjj_ei8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:_Ybze24A_UAC
+  title: 'Fire Together Wire Together: A Dynamic Pruning Approach with Self-Supervised
+    Mask Prediction'
+  authors:
+  - S Elkerdawy
+  - M Elhoushi
+  - H Zhang
+  - N Ray
+  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),
+    2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:_Ybze24A_UAC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:WF5omc3nYNoC
+  title: 'Biomedical image analysis: tracking'
+  authors:
+  - ST Acton
+  - N Ray
+  publisher: Synthesis Lectures on Image, Video, and Multimedia Processing 2 (1),
+    1-152, 2006
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:WF5omc3nYNoC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:5nxA0vEk-isC
+  title: 'Biomedical image analysis: Segmentation'
+  authors:
+  - ST Acton
+  - N Ray
+  publisher: Morgan & Claypool Publishers, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:5nxA0vEk-isC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:5ugPr518TE4C
+  title: Animal detection in man-made environments
+  authors:
+  - A Singh
+  - M Pietrasik
+  - G Natha
+  - N Ghouaiel
+  - K Brizel
+  - N Ray
+  publisher: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer\
+    \ \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:5ugPr518TE4C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:JoZmwDi-zQgC
+  title: To filter prune, or to layer prune, that is the question
+  authors:
+  - S Elkerdawy
+  - M Elhoushi
+  - A Singh
+  - H Zhang
+  - N Ray
+  publisher: proceedings of the Asian conference on computer vision, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:JoZmwDi-zQgC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:hMod-77fHWUC
+  title: Clump splitting via bottleneck detection and shape classification
+  authors:
+  - H Wang
+  - H Zhang
+  - N Ray
+  publisher: Pattern Recognition 45 (7), 2780-2787, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:hMod-77fHWUC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:uWiczbcajpAC
+  title: 'Early detection of bark beetle attack using remote sensing and machine learning:
+    A review'
+  authors:
+  - SM Marvasti-Zadeh
+  - D Goodsman
+  - N Ray
+  - N Erbilgin
+  publisher: ACM Computing Surveys 56 (4), 1-40, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:uWiczbcajpAC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:8k81kl-MbHgC
+  title: 'Snake validation: A PCA-based outlier detection method'
+  authors:
+  - BN Saha
+  - N Ray
+  - H Zhang
+  publisher: IEEE signal processing letters 16 (6), 549-552, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:8k81kl-MbHgC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:lSLTfruPkqcC
+  title: Anovel framework for automatic passenger counting
+  authors:
+  - S Mukherjee
+  - BN Saha
+  - I Jamal
+  - R Leclerc
+  - N Ray
+  publisher: 2011 18th IEEE international conference on image processing, 2969-2972,
+    2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:lSLTfruPkqcC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:J-pR_7NvFogC
+  title: Cell detection in microscopy images with deep convolutional neural network
+    and compressed sensing
+  authors:
+  - Y Xue
+  - N Ray
+  publisher: arXiv preprint arXiv:1708.03307, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:J-pR_7NvFogC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:5Ul4iDaHHb8C
+  title: Unsupervised deformable image registration with fully connected generative
+    neural network
+  authors:
+  - A Sheikhjafari
+  - M Noga
+  - K Punithakumar
+  - N Ray
+  publisher: Medical imaging with deep learning, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:5Ul4iDaHHb8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Se3iqnhoufwC
+  title: Edge sensitive variational image thresholding
+  authors:
+  - N Ray
+  - BN Saha
+  publisher: 2007 IEEE International Conference on Image Processing 6, VI-37-VI-40,
+    2007
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Se3iqnhoufwC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:KxtntwgDAa4C
+  title: Object classification with joint projection and low-rank dictionary learning
+  authors:
+  - H Foroughi
+  - N Ray
+  - H Zhang
+  publisher: IEEE Transactions on Image Processing 27 (2), 806-821, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:KxtntwgDAa4C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:nb7KW1ujOQ8C
+  title: 'Deep Deformable Registration: Enhancing Accuracy by Fully Convolutional
+    Neural Net'
+  authors:
+  - S Ghosal
+  - N Ray
+  publisher: "Pattern Recognition Letters 94, 81\u201386, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:nb7KW1ujOQ8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:kNdYIx-mwKoC
+  title: Locating brain tumors from MR imagery using symmetry
+  authors:
+  - N Ray
+  - BN Saha
+  - MRG Brown
+  publisher: "2007 Conference Record of the Forty-First Asilomar Conference on Signals\
+    \ \u2026, 2007"
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:kNdYIx-mwKoC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:1sJd4Hv_s6UC
+  title: New algorithm for semiautomatic segmentation of nasal cavity and pharyngeal
+    airway in comparison with manual segmentation using cone-beam computed tomography
+  authors:
+  - NA Alsufyani
+  - A Hess
+  - M Noga
+  - N Ray
+  - MAQ Al-Saleh
+  - "MO Lagrav\xE8re"
+  - '...'
+  publisher: American Journal of Orthodontics and Dentofacial Orthopedics 150 (4),
+    703-712, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:1sJd4Hv_s6UC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:qjMakFHDy7sC
+  title: Active contours for cell tracking
+  authors:
+  - N Ray
+  - ST Acton
+  publisher: "Proceedings Fifth IEEE Southwest Symposium on Image Analysis and \u2026\
+    , 2002"
+  date: '2002-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:qjMakFHDy7sC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:a0OBvERweLwC
+  title: Intravital live cell triggered imaging system reveals monocyte patrolling
+    and macrophage migration in atherosclerotic arteries
+  authors:
+  - S McArdle
+  - G Chodaczek
+  - N Ray
+  - K Ley
+  publisher: Journal of biomedical optics 20 (2), 026005-026005, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:a0OBvERweLwC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:ns9cj8rnVeAC
+  title: 'Object detection with DoG scale-space: A multiple kernel learning approach'
+  authors:
+  - S Nilufar
+  - N Ray
+  - H Zhang
+  publisher: IEEE Transactions on Image Processing 21 (8), 3744-3756, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:ns9cj8rnVeAC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:IjCSPb-OGe4C
+  title: A fast and flexible multiresolution snake with a definite termination criterion
+  authors:
+  - N Ray
+  - B Chanda
+  - J Das
+  publisher: Pattern Recognition 34 (7), 1483-1490, 2001
+  date: '2001-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:IjCSPb-OGe4C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:vV6vV6tmYwMC
+  title: Adaptive shape prior in graph cut image segmentation
+  authors:
+  - H Wang
+  - H Zhang
+  - N Ray
+  publisher: Pattern Recognition 46 (5), 1409-1414, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:vV6vV6tmYwMC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:WA5NYHcadZ8C
+  title: Locating Cephalometric X-Ray Landmarks with Foveated Pyramid Attention
+  authors:
+  - L Gilmour
+  - N Ray
+  publisher: MIDL 2020 Conference, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:WA5NYHcadZ8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:hC7cP41nSMkC
+  title: Shape based local thresholding for binarization of document images
+  authors:
+  - J Shi
+  - N Ray
+  - H Zhang
+  publisher: Pattern Recognition Letters 33 (1), 24-32, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:hC7cP41nSMkC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:D03iK_w7-QYC
+  title: Robust people counting using sparse representation and random projection
+  authors:
+  - H Foroughi
+  - N Ray
+  - H Zhang
+  publisher: Pattern Recognition 48 (10), 3038-3052, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:D03iK_w7-QYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:PR6Y55bgFSsC
+  title: Layer Importance Estimation with Imprinting for Neural Network Quantization
+  authors:
+  - H Liu
+  - S Elkerdawy
+  - N Ray
+  - M Elhoushi
+  publisher: "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:PR6Y55bgFSsC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:t6usbXjVLHcC
+  title: 'Drmime: Differentiable mutual information and matrix exponential for multi-resolution
+    image registration'
+  authors:
+  - A Nan
+  - M Tennant
+  - U Rubin
+  - N Ray
+  publisher: Medical Imaging with Deep Learning, 527-543, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:t6usbXjVLHcC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:q3oQSFYPqjQC
+  title: Training convolutional neural networks and compressed sensing end-to-end
+    for microscopy cell detection
+  authors:
+  - Y Xue
+  - G Bigras
+  - J Hugh
+  - N Ray
+  publisher: IEEE transactions on medical imaging 38 (11), 2632-2641, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:q3oQSFYPqjQC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:_FxGoFyzp5QC
+  title: Using symmetry to detect abnormalies in brain MRI
+  authors:
+  - N Ray
+  - R Greiner
+  - A Murtha
+  publisher: Computer Society of India Communications 31 (19), 7-10, 2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:_FxGoFyzp5QC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:eQOLeE2rZwMC
+  title: Computer vision segmentation of the longissimus dorsi for beef quality grading
+  authors:
+  - J Subbiah
+  - N Ray
+  - GA Kranzler
+  - ST Acton
+  publisher: Transactions of the ASAE 47 (4), 1261-1268, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:eQOLeE2rZwMC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:zYLM7Y9cAGgC
+  title: Beef quality grading using machine vision
+  authors:
+  - S Jeyamkondan
+  - N Ray
+  - GA Kranzler
+  - N Biju
+  publisher: Biological Quality and Precision Agriculture II 4203, 91-101, 2000
+  date: '2000-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:zYLM7Y9cAGgC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:TIZ-Mc8IlK0C
+  title: Toward accurate deep learning-based prediction of Ki67, ER, PR, and HER2
+    status from H&E-stained breast cancer images
+  authors:
+  - A Akbarnejad
+  - N Ray
+  - PJ Barnes
+  - G Bigras
+  publisher: Applied Immunohistochemistry & Molecular Morphology 33 (3), 131-141,
+    2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:TIZ-Mc8IlK0C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:qUcmZB5y_30C
+  title: Automatic segmentation of spinal cord MRI using symmetric boundary tracing
+  authors:
+  - DP Mukherjee
+  - I Cheng
+  - N Ray
+  - V Mushahwar
+  - M Lebel
+  - A Basu
+  publisher: IEEE Transactions on Information Technology in Biomedicine 14 (5), 1275-1278,
+    2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:qUcmZB5y_30C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:wbdj-CoPYUoC
+  title: Lightweight monocular depth estimation model by joint end-to-end filter pruning
+  authors:
+  - S Elkerdawy
+  - H Zhang
+  - N Ray
+  publisher: 2019 IEEE International Conference on Image Processing (ICIP), 4290-4294,
+    2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:wbdj-CoPYUoC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:LkGwnXOMwfcC
+  title: Texture based background subtraction
+  authors:
+  - D Zhou
+  - H Zhang
+  - N Ray
+  publisher: 2008 International Conference on Information and Automation, 601-605,
+    2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:LkGwnXOMwfcC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:UeHWp8X0CEIC
+  title: Data acceptance for automated leukocyte tracking through segmentation of
+    spatiotemporal images
+  authors:
+  - N Ray
+  - ST Acton
+  publisher: IEEE Transactions on Biomedical Engineering 52 (10), 1702-1712, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:UeHWp8X0CEIC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Y5dfb0dijaUC
+  title: One-shot layer-wise accuracy approximation for layer pruning
+  authors:
+  - S Elkerdawy
+  - M Elhoushi
+  - A Singh
+  - H Zhang
+  - N Ray
+  publisher: 2020 IEEE International Conference on Image Processing (ICIP), 2940-2944,
+    2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Y5dfb0dijaUC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:pqnbT2bcN3wC
+  title: Cell tracking in microscopic video using matching and linking of bipartite
+    graphs
+  authors:
+  - R Chatterjee
+  - M Ghosh
+  - AS Chowdhury
+  - N Ray
+  publisher: Computer methods and programs in biomedicine 112 (3), 422-431, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:pqnbT2bcN3wC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:YOwf2qJgpHMC
+  title: Cell tracking in video microscopy using bipartite graph matching
+  authors:
+  - AS Chowdhury
+  - R Chatterjee
+  - M Ghosh
+  - N Ray
+  publisher: 2010 20th International Conference on Pattern Recognition, 2456-2459,
+    2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:YOwf2qJgpHMC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:vRqMK49ujn8C
+  title: Cell Detection with Deep Convolutional Neural Network and Compressed Sensing
+  authors:
+  - Y Xue
+  - N Ray
+  publisher: https://arxiv.org/abs/1708.03307, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:vRqMK49ujn8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:ZeXyd9-uunAC
+  title: Clump splitting via bottleneck detection
+  authors:
+  - H Wang
+  - H Zhang
+  - N Ray
+  publisher: 2011 18th IEEE International Conference on Image Processing, 61-64, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:ZeXyd9-uunAC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:blknAaTinKkC
+  title: Spectrogram based features selection using multiple kernel learning for speech/music
+    discrimination
+  authors:
+  - S Nilufar
+  - N Ray
+  - MKI Molla
+  - K Hirose
+  publisher: "2012 IEEE international conference on acoustics, speech and signal \u2026\
+    , 2012"
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:blknAaTinKkC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:vbGhcppDl1QC
+  title: Orthomosaicking thermal drone images of forests via simultaneously acquired
+    RGB images
+  authors:
+  - R Kapil
+  - G Castilla
+  - SM Marvasti-Zadeh
+  - D Goodsman
+  - N Erbilgin
+  - N Ray
+  publisher: Remote Sensing 15 (10), 2653, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:vbGhcppDl1QC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:yB1At4FlUx8C
+  title: Classification of bark beetle-induced forest tree mortality using deep learning
+  authors:
+  - R Kapil
+  - SM Marvasti-Zadeh
+  - D Goodsman
+  - N Ray
+  - N Erbilgin
+  publisher: arXiv preprint arXiv:2207.07241, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:yB1At4FlUx8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:eflP2zaiRacC
+  title: Online illumination invariant moving object detection by generative neural
+    network
+  authors:
+  - F Bahri
+  - M Shakeri
+  - N Ray
+  publisher: "Proceedings of the 11th Indian Conference on Computer Vision, Graphics\
+    \ and \u2026, 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:eflP2zaiRacC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:1qzjygNMrQYC
+  title: Fine-grained vehicle classification with unsupervised parts co-occurrence
+    learning
+  authors:
+  - S Elkerdawy
+  - N Ray
+  - H Zhang
+  publisher: Proceedings of the european conference on computer vision (ECCV) Workshops,
+    0-0, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:1qzjygNMrQYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:qxL8FJ1GzNcC
+  title: Automatic blood cell classification based on joint histogram based feature
+    and Bhattacharya Kernel
+  authors:
+  - S Nilufar
+  - N Ray
+  - H Zhang
+  publisher: 2008 42nd Asilomar conference on signals, systems and computers, 1915-1918,
+    2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:qxL8FJ1GzNcC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Tyk-4Ss8FVUC
+  title: 'Inclusion filters: A class of self-dual connected operators'
+  authors:
+  - N Ray
+  - ST Acton
+  publisher: IEEE Transactions on Image Processing 14 (11), 1736-1746, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Tyk-4Ss8FVUC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Y0pCki6q_DkC
+  title: Active contour segmentation guided by AM-FM dominant component analysis
+  authors:
+  - N Ray
+  - J Havlicek
+  - ST Acton
+  - M Pattichis
+  publisher: "Proceedings 2001 International Conference on Image Processing (Cat.\
+    \ No \u2026, 2001"
+  date: '2001-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Y0pCki6q_DkC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:YsMSGLbcyi4C
+  title: Image segmentation by curve evolution with clustering
+  authors:
+  - N Ray
+  - ST Acton
+  publisher: "Conference Record of the Thirty-Fourth Asilomar Conference on Signals\
+    \ \u2026, 2000"
+  date: '2000-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:YsMSGLbcyi4C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:l7t_Zn2s7bgC
+  title: A Structured Deep-learning Based Approach for the Automated Segmentation
+    of Human Leg Muscle from 3D MRI
+  authors:
+  - S Ghosh
+  - N Ray
+  - P Boulanger
+  publisher: Computer and Robot Vision, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:l7t_Zn2s7bgC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Dip1O2bNi0gC
+  title: "Scale up manufacturing approach for production of human induced pluripotent\
+    \ stem cell-derived islets using Vertical Wheel\xAE bioreactors"
+  authors:
+  - N Dadheech
+  - "M Berm\xFAdez de Le\xF3n"
+  - Z Czarnecka
+  - N Cuesta-Gomez
+  - '...'
+  publisher: NPJ Regenerative Medicine 10 (1), 24, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Dip1O2bNi0gC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:RYcK_YlVTxYC
+  title: 'Seeing through clutter: Snake computation with dynamic programming for particle
+    segmentation'
+  authors:
+  - N Ray
+  - ST Acton
+  - H Zhang
+  publisher: "Proceedings of the 21st International Conference on Pattern Recognition\
+    \ \u2026, 2012"
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:RYcK_YlVTxYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:RGFaLdJalmkC
+  title: Shape based appearance model for kernel tracking
+  authors:
+  - Z Wang
+  - MB Salah
+  - H Zhang
+  - N Ray
+  publisher: Image and Vision Computing 30 (4-5), 332-344, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:RGFaLdJalmkC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:L8Ckcad2t8MC
+  title: 'Computation of fluid and particle motion from a time-sequenced image pair:
+    A global outlier identification approach'
+  authors:
+  - N Ray
+  publisher: IEEE transactions on image processing 20 (10), 2925-2936, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:L8Ckcad2t8MC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:M3ejUd6NZC8C
+  title: Solidity based local threshold for oil sand image segmentation
+  authors:
+  - J Shi
+  - H Zhang
+  - N Ray
+  publisher: 2009 16th IEEE International Conference on Image Processing (ICIP), 2385-2388,
+    2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:M3ejUd6NZC8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:1yQoGdGgb4wC
+  title: Unknown-box Approximation to Improve Optical Character Recognition Performance
+  authors:
+  - A Randika
+  - N Ray
+  - X Xiao
+  - A Latimer
+  publisher: 16th International Conference on Document Analysis and Recognition ICDAR
+    2021, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:1yQoGdGgb4wC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:8AbLer7MMksC
+  title: Convolutional gated recurrent networks for video semantic segmentation in
+    automated driving
+  authors:
+  - M Siam
+  - S Valipour
+  - M Jagersand
+  - N Ray
+  - S Yogamani
+  publisher: "2017 IEEE 20th International Conference on Intelligent Transportation\
+    \ \u2026, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:8AbLer7MMksC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Tiz5es2fbqcC
+  title: Automated 3D Muscle Segmentation From MRI Data Using Convolutional Neural
+    Network
+  authors:
+  - S Ghosh
+  - P Boulanger
+  - ST Acton
+  - SS Blemker
+  - N Ray
+  publisher: IEEE ICIP, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Tiz5es2fbqcC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:cFHS6HbyZ2cC
+  title: 'VFCCV snake: A novel active contour model combining edge and regional information'
+  authors:
+  - J Sun
+  - N Ray
+  - H Zhang
+  publisher: 2014 IEEE International Conference on Image Processing (ICIP), 927-931,
+    2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:cFHS6HbyZ2cC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:kuK5TVdYjLIC
+  title: 'Shadowsense: Unsupervised domain adaptation and feature fusion for shadow-agnostic
+    tree crown detection from rgb-thermal drone imagery'
+  authors:
+  - R Kapil
+  - SM Marvasti-Zadeh
+  - N Erbilgin
+  - N Ray
+  publisher: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer\
+    \ \u2026, 2024"
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:kuK5TVdYjLIC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:EYYDruWGBe4C
+  title: Deep learning based parameterization of diffeomorphic image registration
+    for cardiac image segmentation
+  authors:
+  - A Sheikhjafari
+  - D Krishnaswamy
+  - M Noga
+  - N Ray
+  - K Punithakumar
+  publisher: IEEE Transactions on NanoBioscience 22 (4), 800-807, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:EYYDruWGBe4C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:p__nRnzSRKYC
+  title: 'Crown-CAM: Interpretable visual explanations for tree crown detection in
+    aerial images'
+  authors:
+  - SM Marvasti-Zadeh
+  - D Goodsman
+  - N Ray
+  - N Erbilgin
+  publisher: IEEE Geoscience and Remote Sensing Letters 20, 1-5, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:p__nRnzSRKYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:zLWjf1WUPmwC
+  title: 'Tiny-HR: Towards an interpretable machine learning pipeline for heart rate
+    estimation on edge devices'
+  authors:
+  - P Anbukarasu
+  - S Nanisetty
+  - G Tata
+  - N Ray
+  publisher: arXiv preprint arXiv:2208.07981, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:zLWjf1WUPmwC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:NJ774b8OgUMC
+  title: Dynamic Background Subtraction by Generative Neural Networks
+  authors:
+  - F Bahri
+  - N Ray
+  publisher: https://arxiv.org/abs/2202.05336, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:NJ774b8OgUMC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:dTyEYWd-f8wC
+  title: End-to-end learning of convolutional neural net and dynamic programming for
+    left ventricle segmentation
+  authors:
+  - NM Nguyen
+  - N Ray
+  publisher: Medical Imaging with Deep Learning, 2020, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:dTyEYWd-f8wC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:eMMeJKvmdy0C
+  title: Automated left atrial segmentation from magnetic resonance image sequences
+    using deep convolutional neural network with autoencoder
+  authors:
+  - S Ghosh
+  - N Ray
+  - P Boulanger
+  - K Punithakumar
+  - M Noga
+  publisher: 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI),
+    1756-1760, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:eMMeJKvmdy0C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:BrmTIyaxlBUC
+  title: Using accelerometric and gyroscopic data to improve blood pressure prediction
+    from pulse transit time using recurrent neural network
+  authors:
+  - S Ghosh
+  - A Banerjee
+  - N Ray
+  - PW Wood
+  - P Boulanger
+  - R Padwal
+  publisher: "2018 IEEE International Conference on Acoustics, Speech and Signal \u2026\
+    , 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:BrmTIyaxlBUC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:4TOpqqG69KYC
+  title: 'A concave cost formulation for parametric curve fitting: Detection of leukocytes
+    from intravital microscopy images'
+  authors:
+  - N Ray
+  publisher: 2010 IEEE International Conference on Image Processing, 53-56, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:4TOpqqG69KYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:UebtZRa9Y70C
+  title: MRI ventilation analysis by merging parametric active contours
+  authors:
+  - N Ray
+  - ST Acton
+  - T Altes
+  - EE de Lange
+  publisher: "Proceedings 2001 International Conference on Image Processing (Cat.\
+    \ No \u2026, 2001"
+  date: '2001-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:UebtZRa9Y70C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:u_35RYKgDlwC
+  title: Unique people count from monocular videos
+  authors:
+  - S Mukherjee
+  - S Gil
+  - N Ray
+  publisher: The Visual Computer 31 (10), 1405-1417, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:u_35RYKgDlwC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:TQgYirikUcIC
+  title: Contour interpolation using level-set analysis
+  authors:
+  - DP Mukherjee
+  - N Ray
+  publisher: International Journal of Image and Graphics 12 (01), 1250004, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:TQgYirikUcIC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:hqOjcs7Dif8C
+  title: Graph-cut optimization of the ratio of functions and its application to image
+    segmentation.
+  authors:
+  - MH Wang
+  - N Ray
+  - H Zhang
+  publisher: ICIP, 749-752, 2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:hqOjcs7Dif8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:3fE2CSJIrl8C
+  title: Rolling leukocyte detection based on teardrop shape and the gradient inverse
+    coefficient of variation
+  authors:
+  - S Sahoo
+  - N Ray
+  - ST Acton
+  publisher: "International Conference on Medical Information Visualisation-BioMedical\
+    \ \u2026, 2006"
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:3fE2CSJIrl8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:ufrVoPGSRksC
+  title: Detection and tracking of rolling leukocytes from intravital microscopy
+  authors:
+  - ST Acton
+  - N Ray
+  publisher: "2004 2nd IEEE International Symposium on Biomedical Imaging: Nano to\
+    \ Macro \u2026, 2004"
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:ufrVoPGSRksC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:SpbeaW3--B0C
+  title: Issues and challenges of tourism development in West Bengal, India
+  authors:
+  - A Banerjee
+  - N Ray
+  - S Ghosh
+  publisher: "International Conference on Management (ICM 2011) Proceeding.[cited\
+    \ 03 \u2026, 2011"
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:SpbeaW3--B0C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:Zph67rFs4hoC
+  title: Computing oil sand particle size distribution by snake-PCA algorithm
+  authors:
+  - BN Saha
+  - N Ray
+  - H Zhang
+  publisher: "2008 IEEE International Conference on Acoustics, Speech and Signal \u2026\
+    , 2008"
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:Zph67rFs4hoC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:q3CdL3IzO_QC
+  title: Kinetics and mechanism of ammonia decomposition over alumina supported nickel
+    catalysts
+  authors:
+  - SK Roy
+  - N Ray
+  - D Mukherjee
+  - S Sen
+  publisher: Plan Develop Division 41, 485e95, 1975
+  date: '1975-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:q3CdL3IzO_QC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:4OULZ7Gr8RgC
+  title: Registering sequences of in vivo microscopy images for cell tracking using
+    dynamic programming and minimum spanning trees
+  authors:
+  - S McArdle
+  - ST Acton
+  - K Ley
+  - N Ray
+  publisher: 2014 IEEE International Conference on Image Processing (ICIP), 3547-3551,
+    2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:4OULZ7Gr8RgC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:KlAtU1dfN6UC
+  title: An affine transformation invariance approach to cell tracking
+  authors:
+  - J Cui
+  - N Ray
+  - ST Acton
+  - Z Lin
+  publisher: Computerized Medical Imaging and Graphics 32 (7), 554-565, 2008
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:KlAtU1dfN6UC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:9ZlFYXVOiuMC
+  title: Tracking multiple cells by correspondence resolution in a sequential Bayesian
+    framework
+  authors:
+  - N Ray
+  - G Dong
+  - ST Acton
+  publisher: IEEE International Conference on Image Processing 2005 1, I-705, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:9ZlFYXVOiuMC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:roLk4NBRz8UC
+  title: Tracking fast-rolling leukocytes in vivo with active contours
+  authors:
+  - N Ray
+  - ST Acton
+  publisher: Proceedings. International Conference on Image Processing 3, III-III,
+    2002
+  date: '2002-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:roLk4NBRz8UC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:epqYDVWIO7EC
+  title: Unsupervised diffeomorphic cardiac image registration using parameterization
+    of the deformation field
+  authors:
+  - A Sheikhjafari
+  - D Krishnaswamy
+  - M Noga
+  - N Ray
+  - K Punithakumar
+  publisher: arXiv preprint arXiv:2208.13275, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:epqYDVWIO7EC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:K3LRdlH-MEoC
+  title: Face Recognition Using Multi-modal Low-rank Dictionary Learning
+  authors:
+  - H Foroughi
+  - M Shakeri
+  - N Ray
+  - H Zhang
+  publisher: IEEE ICIP, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:K3LRdlH-MEoC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:f2IySw72cVMC
+  title: Joint Feature Selection with Low-rank Dictionary Learning.
+  authors:
+  - H Foroughi
+  - M Shakeri
+  - N Ray
+  - H Zhang
+  publisher: BMVC, 97.1-97.13, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:f2IySw72cVMC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:HoB7MX3m0LUC
+  title: 'Ar-boost: Reducing overfitting by a robust data-driven regularization strategy'
+  authors:
+  - BN Saha
+  - G Kunapuli
+  - N Ray
+  - JA Maldjian
+  - S Natarajan
+  publisher: "Joint European Conference on Machine Learning and Knowledge Discovery\
+    \ in \u2026, 2013"
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:HoB7MX3m0LUC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:k_IJM867U9cC
+  title: Optimum kernel function design from scale space features for object detection
+  authors:
+  - S Nilufar
+  - N Ray
+  - H Zhang
+  publisher: 2009 16th IEEE International Conference on Image Processing (ICIP), 861-864,
+    2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:k_IJM867U9cC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:4TOpqqG69KYC
+  title: River ice segmentation with deep learning
+  authors:
+  - A Singh
+  - H Kalke
+  - M Loewen
+  - N Ray
+  publisher: IEEE Transactions on Geoscience and Remote Sensing 58 (11), 7570-7579,
+    2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:4TOpqqG69KYC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:EUQCXRtRnyEC
+  title: Animal Detection in Man-made Environments
+  authors:
+  - A Singh
+  - M Pietrasik
+  - G Natha
+  - N Ghouaiel
+  - K Brizel
+  - N Ray
+  publisher: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer\
+    \ \u2026, 2020"
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:EUQCXRtRnyEC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:NhqRSupF_l8C
+  title: To filter prune, or to layer prune, that is the question
+  authors:
+  - S Elkerdawy
+  - M Elhoushi
+  - A Singh
+  - H Zhang
+  - N Ray
+  publisher: Proceedings of the Asian Conference on Computer Vision, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:NhqRSupF_l8C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:d1gkVwhDpl0C
+  title: Online signature verification using segment-level fuzzy modelling
+  authors:
+  - AQ Ansari
+  - M Hanmandlu
+  - J Kour
+  - AK Singh
+  publisher: IET biometrics 3 (3), 113-127, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:d1gkVwhDpl0C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:abG-DnoFyZgC
+  title: One-Shot Layer-Wise Accuracy Approximation For Layer Pruning
+  authors:
+  - S Elkerdawy
+  - M Elhoushi
+  - A Singh
+  - H Zhang
+  - N Ray
+  publisher: 2020 IEEE International Conference on Image Processing (ICIP), 2940-2944,
+    2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:abG-DnoFyZgC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:KxtntwgDAa4C
+  title: "Scale up manufacturing approach for production of human induced pluripotent\
+    \ stem cell-derived islets using Vertical Wheel\xAE bioreactors"
+  authors:
+  - N Dadheech
+  - "M Berm\xFAdez de Le\xF3n"
+  - Z Czarnecka
+  - N Cuesta-Gomez
+  - '...'
+  publisher: npj Regenerative Medicine 10 (1), 1-23, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:KxtntwgDAa4C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:qjMakFHDy7sC
+  title: Real-time salient closed boundary tracking via line segments perceptual grouping
+  authors:
+  - X Qin
+  - S He
+  - CP Quintero
+  - A Singh
+  - M Dehghan
+  - M Jagersand
+  publisher: "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems\
+    \ \u2026, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:qjMakFHDy7sC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:zYLM7Y9cAGgC
+  title: 'Modular tracking framework: A unified approach to registration based tracking'
+  authors:
+  - A Singh
+  - M Jagersand
+  publisher: arXiv preprint arXiv:1602.09130, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:zYLM7Y9cAGgC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:W7OEmFMy1HYC
+  title: 'RKLT: 8 DOF real-time robust video tracking combing coarse RANSAC features
+    and accurate fast template registration'
+  authors:
+  - X Zhang
+  - A Singh
+  - M Jagersand
+  publisher: 2015 12th Conference on Computer and Robot Vision, 70-77, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:W7OEmFMy1HYC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:WF5omc3nYNoC
+  title: 4-DoF tracking for robot fine manipulation tasks
+  authors:
+  - M Siam
+  - A Singh
+  - C Perez
+  - M Jagersand
+  publisher: 2017 14th Conference on Computer and Robot Vision (CRV), 329-336, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:WF5omc3nYNoC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:Y0pCki6q_DkC
+  title: Modular decomposition and analysis of registration based trackers
+  authors:
+  - A Singh
+  - A Roy
+  - X Zhang
+  - M Jagersand
+  publisher: arXiv preprint arXiv:1603.01292, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:Y0pCki6q_DkC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:nb7KW1ujOQ8C
+  title: Alberta River Ice Segmentation Dataset
+  authors:
+  - A Singh
+  - H Kalke
+  - M Loewen
+  - N Ray
+  publisher: 'IEEE Dataport: New York, NY, USA, 2019'
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:nb7KW1ujOQ8C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:UeHWp8X0CEIC
+  title: An interactive framework for abandoned and removed object detection in video
+  authors:
+  - AK Singh
+  - A Agrawal
+  publisher: 2013 Annual IEEE India Conference (INDICON), 1-6, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:UeHWp8X0CEIC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:9yKSN-GCB0IC
+  title: 'Modular tracking framework: A fast library for high precision tracking'
+  authors:
+  - A Singh
+  - M Jagersand
+  publisher: "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems\
+    \ \u2026, 2017"
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:9yKSN-GCB0IC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:Zph67rFs4hoC
+  title: 'Modular tracking framework: a unified approach to registration based tracking'
+  authors:
+  - A Singh
+  publisher: University of Alberta, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:Zph67rFs4hoC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:MXK_kJrjxJIC
+  title: Improving model-based rl with adaptive rollout using uncertainty estimation
+  authors:
+  - NM Nguyen
+  - A Singh
+  - K Tran
+  publisher: ''
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:MXK_kJrjxJIC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:eQOLeE2rZwMC
+  title: 'Unifying registration based tracking: A case study with structural similarity'
+  authors:
+  - A Singh
+  - M Siam
+  - M Jagersand
+  publisher: arXiv preprint arXiv:1607.04673, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:eQOLeE2rZwMC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:CHSYGLWDkRkC
+  title: Towards Early Prediction of Human iPSC Reprogramming Success
+  authors:
+  - A Singh
+  - I Jasra
+  - O Mouhammed
+  - N Dadheech
+  - N Ray
+  - J Shapiro
+  publisher: arXiv preprint arXiv:2305.14575, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:CHSYGLWDkRkC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:dshw04ExmUIC
+  title: Improving Token-based Object Detection with Video
+  authors:
+  - A Singh
+  - N Ray
+  publisher: IEEE Access, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:dshw04ExmUIC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:UxriW0iASnsC
+  title: 'Object Detection and Segmentation with Deep Learning: From Fixed to Variable-Length
+    Representations'
+  authors:
+  - AK Singh
+  publisher: ''
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:UxriW0iASnsC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:uWQEDVKXjbEC
+  title: Tokenizing Semantic Segmentation with Run Length Encoding
+  authors:
+  - A Singh
+  - J Rozeboom
+  - N Ray
+  publisher: arXiv preprint arXiv:2602.21627, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:uWQEDVKXjbEC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:SP6oXDckpogC
+  title: Tokenizing Semantic Segmentation with RLE
+  authors:
+  - A Singh
+  - J Rozeboom
+  - N Ray
+  publisher: arXiv preprint arXiv:2602.21627, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:SP6oXDckpogC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:1sJd4Hv_s6UC
+  title: 'Deep MDP: A Modular Framework for Multi-Object Tracking'
+  authors:
+  - A Singh
+  publisher: arXiv preprint arXiv:2310.14294, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:1sJd4Hv_s6UC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:u5HHmVD_uO8C
+  title: 'Registration based Tracking with Structural Similarity: A Unifying Formulation.'
+  authors:
+  - A Singh
+  - "M J\xE4gersand"
+  publisher: arXiv preprint arXiv:1607.04673, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:u5HHmVD_uO8C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:YsMSGLbcyi4C
+  title: An Assessment of the Impact of Dimensionality Reduction on the Speed and
+    Accuracy of Hyperspectral Image Classification
+  authors:
+  - A Singh
+  - S Verma
+  - M Raj
+  - A Agrawal
+  publisher: International Journal of Advanced Computer Research 3 (3), 436, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:YsMSGLbcyi4C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:u-x6o8ySG0sC
+  title: Abandoned Object Detection in Video
+  authors:
+  - AK Singh
+  publisher: INDIAN INSTITUTE OF INFORMATION TECHNOLOGY ALLAHABAD, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:u-x6o8ySG0sC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:P5F9QuxV20EC
+  title: Detection of Title Blocks in Construction Documents Using Faster R-Cnn
+  authors:
+  - N Sajadfar
+  - A Singh
+  - N Ray
+  - Y Mohamed
+  publisher: Available at SSRN 4845684, 0
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:P5F9QuxV20EC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:xtRiw3GOFMkC
+  title: 1 CIFAR
+  authors:
+  - S Elkerdawy
+  - M Elhoushi
+  - A Singh
+  - H Zhang
+  - N Ray
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:xtRiw3GOFMkC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:b0M2c_1WBrUC
+  title: Animal Detection in Man-made Environments Supplementary
+  authors:
+  - A Singh
+  - M Pietrasik
+  - G Natha
+  - N Ghouaiel
+  - K Brizel
+  - N Ray
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:b0M2c_1WBrUC
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:3fE2CSJIrl8C
+  title: Using Deep Learning techniques for 3D Object Recognition
+  authors:
+  - AK Singh
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:3fE2CSJIrl8C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: lsb5qmsAAAAJ:IjCSPb-OGe4C
+  title: 'Hessian after Convergence: A New Perspective on Lucas Kanade Tracking'
+  authors:
+  - AK Singh
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lsb5qmsAAAAJ&pagesize=100&citation_for_view=lsb5qmsAAAAJ:IjCSPb-OGe4C
+  gsid: lsb5qmsAAAAJ
+  research_page: true
+  member: abhineet-singh
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1109/ACCESS.2025.3545829
   title: 'Computerized Diagnosis Methods for Pediatric Cardiology: A Review'
   authors:
