@@ -6,6 +6,7 @@ import traceback
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
+from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
 from util import *
 
 
@@ -121,6 +122,14 @@ log("Generating citations")
 citations = []
 
 
+def manubot_can_cite(_id):
+    """
+    check whether id uses a Manubot-supported prefix
+    """
+    prefix = _id.partition(":")[0].lower()
+    return prefix in manubot_prefixes
+
+
 # loop through compiled sources
 for index, source in enumerate(sources):
     log(f"Processing source {index + 1} of {len(sources)}, {label(source)}")
@@ -136,7 +145,7 @@ for index, source in enumerate(sources):
     _id = get_safe(source, "id", "").strip()
 
     # Manubot doesn't work without an id
-    if _id:
+    if _id and manubot_can_cite(_id):
         log("Using Manubot to generate citation", indent=1)
 
         try:
@@ -159,6 +168,9 @@ for index, source in enumerate(sources):
                 )
                 # discard source from citations
                 continue
+
+    elif _id:
+        log(f"Skipping Manubot for unsupported id {_id}", indent=1, level="INFO")
 
     # preserve fields from input source, overriding existing fields
     citation.update(source)
