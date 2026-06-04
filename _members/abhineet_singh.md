@@ -3,9 +3,10 @@ name: Dr. Abhineet Singh
 image: images/Abhineet_Singh/Abhineet_Singh.jpg
 role: postdoc
 affiliation: University of Alberta
-description: Postdoctoral reseacher
+description: Postdoctoral researcher
 links:
   email: asingh1@ualberta.ca
+  google-scholar: lsb5qmsAAAAJ
 ---
 
 I am a postdoctoral researcher working with Dr. Nilanjan Ray and Dr. Gilbert Bigras on improving biomarker detection in digital pathology images with deep learning to assist pathologists in performing better cancer diagnoses and prognoses.
