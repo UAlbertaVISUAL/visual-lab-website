@@ -1,7 +1,7 @@
 ---
 title: Time-Embedding U-Net for Temporally Consistent Left Ventricular Segmentation in 3D Echocardiography
-description: Reusable template page for adding detailed project writeups.
-header: images/project_images/sample-project/placeholder.png
+description: A temporal U-Net approach for improving left ventricular segmentation consistency in 3D echocardiography.
+header: images/project_images/2026_Ishani_TEUnet_LVSeg_3dECG/project-image-ishani-2026-TEunet_lv_seg.png
 authors:
   - name: "Ishani DasGupta"
     affiliation: "Department of Computing Science, University of Alberta, Edmonton, Canada"
