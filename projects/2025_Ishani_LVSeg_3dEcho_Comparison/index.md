@@ -1,7 +1,6 @@
 ---
 title: A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography
 description: A comparison of five deep-learning models for automatic left-ventricular segmentation from 3D echocardiography.
-header: images/project_images/2025_Ishani_LVSeg_3dEcho_Comparison/banner.svg
 authors:
   - name: "Ishani DasGupta"
     affiliation: "Department of Computing Science, University of Alberta, Edmonton, Canada"
@@ -13,11 +12,11 @@ authors:
 
 # {{ page.title }}
 
-{% include section.html background=page.header %}
+{% include section.html %}
 
 {% include figure.html
-  image=page.header
-  caption="Project overview banner"
+  image="images/project_images/2025_Ishani_LVSeg_3dEcho_Comparison/project-image-ishani-2025-ISBI_lv_seg.png"
+  caption="Project overview image"
   width="100%"
 %}
 
