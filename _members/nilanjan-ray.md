@@ -6,6 +6,7 @@ affiliation: University of Alberta
 description: Professor
 links:
   home-page: "https://webdocs.cs.ualberta.ca/~nray1/index.html"
+  google-scholar: E3wuLqAAAAAJ
 ---
 
 I received Bachelor of Mechanical Engineering from Jadavpur University, Calcutta, India, in 1995, M.Tech. in Computer Science from Indian Statistical Institute, Calcutta, in 1997, and Ph.D. in Electrical Engineering from the University of Virginia, USA, in 2003. After having two years of postdoctoral research and a year of industrial work experience I joined the Department of Computing Science, University of Alberta in 2006, where I am a Professor now.

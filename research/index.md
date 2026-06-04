@@ -26,5 +26,5 @@ Welcome to the VISUAL Lab research page.
 {% include list.html 
    data="citations" 
    component="citation" 
-   filters="dr-ray:true" 
+   filter="research_page == true" 
 %}
