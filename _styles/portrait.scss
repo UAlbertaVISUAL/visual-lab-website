@@ -53,17 +53,22 @@
 }
 
 .portrait-image {
+  display: block;
   width: 100%;
   margin-bottom: 20px;
   aspect-ratio: 1 / 1;
+  padding: 10px;
+  box-sizing: border-box;
   border-radius: 999px;
-  object-fit: cover;
+  object-fit: contain;
+  background: var(--background-alt);
   box-shadow: var(--shadow);
 }
 
 .portrait[data-style="tiny"] .portrait-image {
   width: 50px;
   margin: 0;
+  padding: 4px;
 }
 
 .portrait-name {
