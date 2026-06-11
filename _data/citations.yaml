@@ -561,20 +561,6 @@
   member: nilanjan-ray
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: E3wuLqAAAAAJ:D03iK_w7-QYC
-  title: Robust people counting using sparse representation and random projection
-  authors:
-  - H Foroughi
-  - N Ray
-  - H Zhang
-  publisher: Pattern Recognition 48 (10), 3038-3052, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:D03iK_w7-QYC
-  gsid: E3wuLqAAAAAJ
-  research_page: true
-  member: nilanjan-ray
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: E3wuLqAAAAAJ:PR6Y55bgFSsC
   title: Layer Importance Estimation with Imprinting for Neural Network Quantization
   authors:
@@ -586,6 +572,20 @@
     \ \u2026, 2021"
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:PR6Y55bgFSsC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:D03iK_w7-QYC
+  title: Robust people counting using sparse representation and random projection
+  authors:
+  - H Foroughi
+  - N Ray
+  - H Zhang
+  publisher: Pattern Recognition 48 (10), 3038-3052, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:D03iK_w7-QYC
   gsid: E3wuLqAAAAAJ
   research_page: true
   member: nilanjan-ray
@@ -996,6 +996,22 @@
   member: nilanjan-ray
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:1yQoGdGgb4wC
+  title: Unknown-box Approximation to Improve Optical Character Recognition Performance
+  authors:
+  - A Randika
+  - N Ray
+  - X Xiao
+  - A Latimer
+  publisher: 16th International Conference on Document Analysis and Recognition ICDAR
+    2021, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:1yQoGdGgb4wC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: E3wuLqAAAAAJ:RYcK_YlVTxYC
   title: 'Seeing through clutter: Snake computation with dynamic programming for particle
     segmentation'
@@ -1050,22 +1066,6 @@
     2009
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:M3ejUd6NZC8C
-  gsid: E3wuLqAAAAAJ
-  research_page: true
-  member: nilanjan-ray
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: E3wuLqAAAAAJ:1yQoGdGgb4wC
-  title: Unknown-box Approximation to Improve Optical Character Recognition Performance
-  authors:
-  - A Randika
-  - N Ray
-  - X Xiao
-  - A Latimer
-  publisher: 16th International Conference on Document Analysis and Recognition ICDAR
-    2021, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:1yQoGdGgb4wC
   gsid: E3wuLqAAAAAJ
   research_page: true
   member: nilanjan-ray
