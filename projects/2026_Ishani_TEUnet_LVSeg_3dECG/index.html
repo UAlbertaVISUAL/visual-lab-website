@@ -499,7 +499,8 @@
 <h2 id="abstract">Abstract</h2>
 
 <!-- Replace with a concise summary of the problem, approach, and contribution. -->
-<p>Three-dimensional (3D) echocardiography is an inherently noisy modality, but allows for capture of temporally complex cardiac motions. Existing segmentation methods often treat cardiac frames independently, resulting in inconsistent delineations across the cardiac cycle, reduced segmentation accuracy, and, in turn, impacting the estimation of key clinical metrics. To address this, our work introduces temporal positional embeddings based on the cardiac cycle to improve 3D echocardiography segmentation. By encoding cardiac phase information into sinusoidal functions, we inject temporal embeddings into the bottleneck and decoder of a U-Net. Our approach (TU-Net) outperforms state-of-the-art models, including nnU-Net and Transformer baselines, UNETR and SwinUNETR. TU-Net achieved a Dice score of 84.7% along with improved temporal consistency, evaluated over two test cases with 18 and 16 frames across the cardiac cycle. Testing this on a lightweight U-Net, which is both efficient and suitable for clinical settings, demonstrates the significance of temporal information in enhancing segmentation quality without complex models. These results highlight the potential for further improvements, not only in 3D echocardiography but also in other dynamic medical imaging modalities.</p>
+<p>Three-dimensional (3D) echocardiography is an inherently noisy modality, but allows for capture of temporally complex cardiac motions. Existing segmentation methods often treat cardiac frames independently, which can lead to inconsistent predictions over time. We present Time-Embedding U-Net (TE U-Net), a temporal extension of the U-Net architecture that incorporates explicit time embeddings and temporal context to improve frame-to-frame consistency in left ventricular segmentation from 3D echocardiography. Our approach leverages both spatial and temporal information to produce smoother and more anatomically coherent segmentations across cardiac cycles. Experimental results demonstrate improved temporal consistency while maintaining strong segmentation performance, highlighting the promise of temporal modeling for robust cardiac image analysis.</p>
+
 <h2 id="team">Team</h2>
 
 <ul>
@@ -515,6 +516,8 @@
 
 <!-- Keep only the links that apply to your project. -->
 <ul>
+  <li><a href="https://ieeexplore.ieee.org/document/11515394">DOI</a></li>
+  <li><a href="https://drive.google.com/file/d/1uqiE7wD92Y2sKqLjgU5GixzSbpvLaa17/view?usp=drive_link">Paper PDF</a></li>
   <li><a href="https://drive.google.com/file/d/1oNKMqLL9PDjyywGz1Pi_6jYRgGKgLUsw/view">Oral Presentation</a></li>
 </ul>
 
