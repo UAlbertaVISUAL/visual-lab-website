@@ -247,19 +247,6 @@
   member: nilanjan-ray
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: E3wuLqAAAAAJ:5nxA0vEk-isC
-  title: 'Biomedical image analysis: Segmentation'
-  authors:
-  - ST Acton
-  - N Ray
-  publisher: Morgan & Claypool Publishers, 2009
-  date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:5nxA0vEk-isC
-  gsid: E3wuLqAAAAAJ
-  research_page: true
-  member: nilanjan-ray
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: E3wuLqAAAAAJ:5ugPr518TE4C
   title: Animal detection in man-made environments
   authors:
@@ -273,6 +260,19 @@
     \ \u2026, 2020"
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:5ugPr518TE4C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:5nxA0vEk-isC
+  title: 'Biomedical image analysis: Segmentation'
+  authors:
+  - ST Acton
+  - N Ray
+  publisher: Morgan & Claypool Publishers, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:5nxA0vEk-isC
   gsid: E3wuLqAAAAAJ
   research_page: true
   member: nilanjan-ray
@@ -1121,6 +1121,19 @@
   member: nilanjan-ray
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:4TOpqqG69KYC
+  title: 'A concave cost formulation for parametric curve fitting: Detection of leukocytes
+    from intravital microscopy images'
+  authors:
+  - N Ray
+  publisher: 2010 IEEE International Conference on Image Processing, 53-56, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:4TOpqqG69KYC
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: E3wuLqAAAAAJ:kuK5TVdYjLIC
   title: 'Shadowsense: Unsupervised domain adaptation and feature fusion for shadow-agnostic
     tree crown detection from rgb-thermal drone imagery'
@@ -1251,14 +1264,31 @@
   member: nilanjan-ray
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: E3wuLqAAAAAJ:4TOpqqG69KYC
-  title: 'A concave cost formulation for parametric curve fitting: Detection of leukocytes
-    from intravital microscopy images'
+- id: E3wuLqAAAAAJ:3fE2CSJIrl8C
+  title: Rolling leukocyte detection based on teardrop shape and the gradient inverse
+    coefficient of variation
   authors:
+  - S Sahoo
   - N Ray
-  publisher: 2010 IEEE International Conference on Image Processing, 53-56, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:4TOpqqG69KYC
+  - ST Acton
+  publisher: "International Conference on Medical Information Visualisation-BioMedical\
+    \ \u2026, 2006"
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:3fE2CSJIrl8C
+  gsid: E3wuLqAAAAAJ
+  research_page: true
+  member: nilanjan-ray
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: E3wuLqAAAAAJ:ufrVoPGSRksC
+  title: Detection and tracking of rolling leukocytes from intravital microscopy
+  authors:
+  - ST Acton
+  - N Ray
+  publisher: "2004 2nd IEEE International Symposium on Biomedical Imaging: Nano to\
+    \ Macro \u2026, 2004"
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:ufrVoPGSRksC
   gsid: E3wuLqAAAAAJ
   research_page: true
   member: nilanjan-ray
@@ -1317,36 +1347,6 @@
   publisher: ICIP, 749-752, 2008
   date: '2008-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:hqOjcs7Dif8C
-  gsid: E3wuLqAAAAAJ
-  research_page: true
-  member: nilanjan-ray
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: E3wuLqAAAAAJ:3fE2CSJIrl8C
-  title: Rolling leukocyte detection based on teardrop shape and the gradient inverse
-    coefficient of variation
-  authors:
-  - S Sahoo
-  - N Ray
-  - ST Acton
-  publisher: "International Conference on Medical Information Visualisation-BioMedical\
-    \ \u2026, 2006"
-  date: '2006-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:3fE2CSJIrl8C
-  gsid: E3wuLqAAAAAJ
-  research_page: true
-  member: nilanjan-ray
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: E3wuLqAAAAAJ:ufrVoPGSRksC
-  title: Detection and tracking of rolling leukocytes from intravital microscopy
-  authors:
-  - ST Acton
-  - N Ray
-  publisher: "2004 2nd IEEE International Symposium on Biomedical Imaging: Nano to\
-    \ Macro \u2026, 2004"
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E3wuLqAAAAAJ&pagesize=100&citation_for_view=E3wuLqAAAAAJ:ufrVoPGSRksC
   gsid: E3wuLqAAAAAJ
   research_page: true
   member: nilanjan-ray
